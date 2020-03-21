@@ -80,6 +80,8 @@
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Video\Create.aspx" />
     <Content Include="Views\Video\Delete.aspx" />
+    <Content Include="Views\Video\Edit.aspx" />
+    <Content Include="Views\Video\Query.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
