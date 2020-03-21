@@ -8,7 +8,12 @@
 </head>
 <body>
     <div>
-        <h1>Bienvenido           </h1>
+        <h1>Bienvenido</h1>
+
+        <a href="/Video/Create">Agregar Video</a>
+         <a href="/Video/Delete">Borrar Video</a>
+          <a href="/Video/Edit">Editar Video</a>
+           <a href="/Video/Query">Mostrar Video</a>
     </div>
 </body>
 </html>
